@@ -6,5 +6,5 @@
 ## Step 02:
 [Install Rust & Toml Plugings into CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/CLion-Rust-Toml-Pluging.png)
 
-### Just browse with the plugings name and install plugins
+### Just browse with the plugings names' and install plugins
 
