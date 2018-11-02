@@ -34,3 +34,6 @@ rustup install stable
 rustup default stable
 ```
 [Rust Installation outputs](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-Install-Success-Opuputs.png)
+
+[Rust Project Creation Screen in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Initilize_rust-pjojec.png)
+
