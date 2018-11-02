@@ -1,0 +1,7 @@
+[package]
+name = "demo_rust"
+version = "0.1.0"
+authors = ["Sajith Nandasena"]
+
+[dependencies]
+rand = "0.4.0"
