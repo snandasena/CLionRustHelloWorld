@@ -1,16 +1,16 @@
 # ClionRustHelloWorld
 ## Step 01:
 [Install CLion Linux ](https://www.jetbrains.com/clion/download/#section=linux)
-### Note: I used CLion but you can any prepered tools to edit source code
+Note: I used CLion but you can any prepered tools to edit source code
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Step 02:
 [Install Rust & Toml Plugings into CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/CLion-Rust-Toml-Pluging.png)
 
-### Note: Just browse with the plugings names' and install plugins
+Note: Just browse with the plugings names' and install plugins
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Step 03:
 [Install Rust in linux](https://doc.rust-lang.org/book/2018-edition/ch01-01-installation.html)
-### Note: I have used following commands to install Rust
+Note: I have used following commands to install Rust
 ```RUSTUP_HOME=/opt/rust
   export RUSTUP_HOME
   CARGO_HOME=/opt/rust
@@ -34,3 +34,9 @@ rustup install stable
 rustup default stable
 ```
 [Rust Installation outputs](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-Install-Success-Opuputs.png)
+
+[Rust Project Creation Screen in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Initilize_rust-pjojec.png)
+
+Note: If you to create a Rust project in command line you can use `cargo new ${project_name}` example `cargo new learn_rust`
+
+[Rust Project run configurations in CLion]()
