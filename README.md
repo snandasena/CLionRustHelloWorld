@@ -17,6 +17,7 @@
   export CARGO_HOME
   curl https://sh.rustup.rs -sSf | sh -s -- -y --no-modify-path
   
+```
 [Dir Structure](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-DIR-Structure.png)
 
 
