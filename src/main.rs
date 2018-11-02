@@ -5,17 +5,17 @@ use rand::Rng;
 use std::cmp::Ordering;
 
 fn main() {
-    println!("Guess the secreat number");
+    println!("Guess the secret number \n");
 
     let secreat_number = rand::thread_rng().gen_range(1, 101);
 
-    println!("The secreate number {}", secreat_number);
+    println!("The secret number {}", secreat_number);
 
-    println!("Please input ur guess");
+    println!("Please input your guess \n");
 
     let mut guess = String::new();
 
-    io::stdin().read_line(&mut guess).expect("Faild to read line");
+    io::stdin().read_line(&mut guess).expect("Failed to read line");
 
     let guess: u32 = guess.trim().parse().expect("Please type a number");
 
