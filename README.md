@@ -5,7 +5,7 @@
 ## Step 02:
 [Install Rust & Toml Plugings into CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/CLion-Rust-Toml-Pluging.png)
 
-``Note: Just browse with the plugings names' and install plugins``
+Note: Just browse with the plugings names' and install plugins
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Step 03:
 [Install Rust in linux](https://doc.rust-lang.org/book/2018-edition/ch01-01-installation.html)
