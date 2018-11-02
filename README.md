@@ -34,3 +34,5 @@ which cargo
 Update defalt `Rust` and `Cargo` in your platform
 rustup install stable
 rustup default stable
+```
+[Rust Installation outputs](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-Install-Success-Opuputs.png)
