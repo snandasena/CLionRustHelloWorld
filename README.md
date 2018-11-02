@@ -29,8 +29,8 @@ copy and pase this line to your `~/.barshrc` file and save it, after that enter 
 First check Rust installation success status on your platform, use following commands
 ```which rustup 
 which rustc
- which cargo
- 
-Update defalt `Rust` and `Cargo` in your platform
-``` rustup install stable
-    rustup default stable
+which cargo
+rustup install stable
+rustup default stable
+```
+[Rust Installation outputs](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-Install-Success-Opuputs.png)
