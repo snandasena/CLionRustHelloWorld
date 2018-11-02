@@ -37,6 +37,9 @@ rustup default stable
 
 [Rust Project Creation Screen in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Initilize_rust-pjojec.png)
 
-Note: If you to create a Rust project in command line you can use `cargo new ${project_name}` example `cargo new learn_rust`
+Note: If you want to create a Rust project in command line you can use `cargo new ${project_name}` example `cargo new learn_rust`
 
 [Rust Project run configurations in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Clion-Rust-Run-Configurations.png)
+
+### Step 05: 
+[Build and Run Rust project]()
