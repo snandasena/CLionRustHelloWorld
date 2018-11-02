@@ -30,8 +30,6 @@ First check Rust installation success status on your platform, use following com
 ```which rustup 
 which rustc
 which cargo
- 
-Update defalt `Rust` and `Cargo` in your platform
 rustup install stable
 rustup default stable
 ```
