@@ -26,5 +26,11 @@ copy and pase this line to your `~/.barshrc` file and save it, after that enter 
 [Dir Structure](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-DIR-Structure.png)
 
 ### Step 04: 
+First check Rust installation success status on your platform, use following commands
+`` which rustup``
+`` which rustc``
 Update defalt `Rust` and `Cargo` in your platform
+``` rustup install stable
+    rustup default stable
+
 ``` 
