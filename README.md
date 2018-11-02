@@ -1,3 +1,3 @@
 # ClionRustHelloWorld
-
-#[Install CLion ](https://www.jetbrains.com/clion/download/#section=linux)
+## Step 01:
+[Install CLion Linux ](https://www.jetbrains.com/clion/download/#section=linux)
