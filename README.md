@@ -4,4 +4,4 @@
 ### Note: I used CLion but you can any prepered tools to edit source code
 
 ## Step 02:
-[Install Rust & Toml Plugings into CLion]
+[Install Rust & Toml Plugings into CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/CLion-Rust-Toml-Pluging.png)
