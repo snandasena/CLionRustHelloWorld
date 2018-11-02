@@ -39,4 +39,4 @@ rustup default stable
 
 Note: If you to create a Rust project in command line you can use `cargo new ${project_name}` example `cargo new learn_rust`
 
-[Rust Project run configurations in CLion]()
+[Rust Project run configurations in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Clion-Rust-Run-Configurations.png)
