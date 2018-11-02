@@ -42,4 +42,4 @@ Note: If you want to create a Rust project in command line you can use `cargo ne
 [Rust Project run configurations in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Clion-Rust-Run-Configurations.png)
 
 ### Step 05: 
-[Build and Run Rust project]()
+[Build and Run Rust project](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Basic%20Cargo%20Coammnds.png)
