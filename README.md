@@ -18,6 +18,9 @@
   curl https://sh.rustup.rs -sSf | sh -s -- -y --no-modify-path
   
 ```
+After install success you can see there is an env file and if you cat it you can this `export PATH="/opt/rust/bin:$PATH"` and  
+copy and pase this line to your `~/.barshrc` file and save it, after that enter this command `source ~/.bashrc`
+
 [Dir Structure](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-DIR-Structure.png)
 
 
