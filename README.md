@@ -22,7 +22,7 @@ After install success you can see there is an env file and if you cat it you can
 copy and pase this line to your `~/.barshrc` file and save it, after that enter this command `source ~/.bashrc`
 
 [Dir Structure](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-DIR-Structure.png)
-
+----------------------------------------------------------------------------------------------------------------------------
 ### Step 04: 
 First check Rust installation success status on your platform, use following commands
 ```which rustup 
@@ -38,6 +38,6 @@ rustup default stable
 Note: If you want to create a Rust project in command line you can use `cargo new ${project_name}` example `cargo new learn_rust`
 
 [Rust Project run configurations in CLion](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Clion-Rust-Run-Configurations.png)
-
+----------------------------------------------------------------------------------------------------------------------------
 ### Step 05: 
 [Build and Run Rust project](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Basic%20Cargo%20Coammnds.png)
