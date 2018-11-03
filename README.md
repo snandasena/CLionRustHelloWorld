@@ -18,7 +18,7 @@ Note: I have used following commands to install Rust
 ```
 If you got OpenSSL error when you are tring to install Rust use this command `sudo apt-get install libssl-dev` 
 
-After install success you can see there is an env file and if you cat it you can this `export PATH="/opt/rust/bin:$PATH"` and  
+After install success you can see there is an env file and if you viwe it you can see this code snipet `export PATH="/opt/rust/bin:$PATH"` and  
 copy and pase this line to your `~/.barshrc` file and save it, after that enter this command `source ~/.bashrc`
 
 [Dir Structure](https://github.com/damithuoc/ClionRustHelloWorld/blob/master/asserts/Rust-DIR-Structure.png)
